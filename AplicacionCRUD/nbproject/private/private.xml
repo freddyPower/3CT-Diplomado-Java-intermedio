@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/web/login.jsp</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/web/index.jsp</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/controlador/CtrlCerrarSesion.java</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/controlador/CtrlArchivo.java</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/web/autores/mantenimiento-autores.jsp</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/controlador/CtrlUsuarios.java</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/modelo/dao/TituloDao.java</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/controlador/CtrlTitulos.java</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/web/autores/actualizar-autor.jsp</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/controlador/CtrlValidacion.java</file>
+            <file>file:/home/luis/NetBeansProjects/AplicacionCRUD/src/java/modelo/dao/UsuarioDao.java</file>
+        </group>
+    </open-files>
+</project-private>
