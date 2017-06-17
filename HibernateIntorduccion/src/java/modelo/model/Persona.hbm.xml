@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 17/06/2017 10:36:29 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="modelo.model.Persona" table="persona" catalog="hibernate" optimistic-lock="version">
+        <id name="idpersona" type="int">
+            <column name="idpersona" />
+            <generator class="assigned" />
+        </id>
+        <property name="nombre" type="string">
+            <column name="nombre" length="45" />
+        </property>
+        <property name="paterno" type="string">
+            <column name="paterno" length="45" />
+        </property>
+        <property name="materno" type="string">
+            <column name="materno" length="45" />
+        </property>
+        <property name="curp" type="string">
+            <column name="curp" length="45" />
+        </property>
+        <property name="correo" type="string">
+            <column name="correo" length="45" />
+        </property>
+        <property name="edad" type="java.lang.Integer">
+            <column name="edad" />
+        </property>
+        <property name="password" type="string">
+            <column name="password" length="45" />
+        </property>
+    </class>
+</hibernate-mapping>
